@@ -1,0 +1,13 @@
+body {
+    margin: 0;;
+}
+
+html {
+    box-sizing: border-box;
+    gap: 3rem;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+    outline: solid 1px red !important
+}
